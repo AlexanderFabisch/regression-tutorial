@@ -9,13 +9,13 @@ lines.antialiased : True         # render lines in antialised (no jaggies)
 font.family         : serif
 font.size           : 10.0
 
-axes.facecolor      : eeeeee   # axes background color
+axes.facecolor      : ffffff   # axes background color
 axes.edgecolor      : bcbcbc   # axes edge color
 axes.linewidth      : 1        # edge linewidth
 axes.grid           : True     # display grid or not
 axes.titlesize      : x-large  # fontsize of the axes title
 axes.labelsize      : large    # fontsize of the x any y labels
-axes.labelcolor     : 555555
+axes.labelcolor     : ffffff
 axes.axisbelow      : True     # whether axis gridlines and ticks are below
                                # the axes elements (lines, text, etc)
 axes.color_cycle    : 7A68A6, A60628, 467821, 348ABD, CF4457, 188487, E24A33
@@ -44,5 +44,4 @@ ytick.direction      : in     # direction: in or out
 
 legend.fancybox      : True  # if True, use a rounded box for the
                                # legend, else a rectangle
-legend.shadow        : True
 legend.loc           : lower left
