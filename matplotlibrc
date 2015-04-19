@@ -1,5 +1,5 @@
 figure.dpi       : 200
-figure.figsize   : 14, 6    # figure size in inches
+figure.figsize   : 20, 10  # figure size in inches
 figure.facecolor : 0.85    # figure facecolor; 0.75 is scalar gray
 figure.edgecolor : 0.50   # figure edgecolor
 
